@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priya Tambulkar
 - 👀 I’m interested in FrontEnd Development. 
-- 🌱 I’m currently learning React,NodeJs,NextJs.
+- 🌱 I’m currently learning React,NodeJs,NextJs,TypeScript.
 - 💞️ I’m looking to collaborate on FrontEnd Project
 - 📫 How to reach me ------ Here is my mail id - priya.tambulkar@gmail.com
 
